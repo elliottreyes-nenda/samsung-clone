@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+<widget id="3202010022079" name="Browser" orderType="recommended" Index="1" version="5.4.05270" lock="false" hidden="false" installedDate="2026-09-21 14:30:05" runTitle="WebBrowser" size="6548917" network="true" usbApp="false">
+<featured system = "partners"></featured>
+<installedPath>/opt/usr/home/owner/apps_rw/org.tizen.browser/</installedPath>
+<icon>/opt/share/webappservice/apps_icon/all/3202010022079/</icon>
+</widget>
+<widget id="3201606009765" name="SF Anytime" orderType="recommended" Index="2" version="6.1.6" lock="false" hidden="false" installedDate="2026-09-21 14:30:05" runTitle="" size="241664" network="true" usbApp="false">
+<featured system = "partners"></featured>
+<installedPath>/opt/usr/home/owner/apps_rw/sntmlv8LDm/</installedPath>
+<icon>/opt/share/webappservice/apps_icon/all/3201606009765/</icon>
+</widget>
+<widget id="3201503001519" name="Ad Player" orderType="myapp" Index="100" version="0.10.98" lock="false" hidden="true" installedDate="2026-09-21 14:30:05" runTitle="" size="1327104" network="true" usbApp="false">
+<featured system = "default"></featured>
+<installedPath>/opt/usr/home/owner/apps_rw/adplatform/</installedPath>
+<icon>/opt/share/webappservice/apps_icon/all/3201503001519/</icon>
+</widget>
+<widget id="3202006020992" name="Samsung TV Plus" orderType="myapp" Index="101" version="0.1.86" lock="false" hidden="true" installedDate="2026-09-21 14:30:06" runTitle="" size="305257" network="false" usbApp="false">
+<featured system = "default"></featured>
+<installedPath>/opt/usr/home/owner/apps_rw/com.samsung.tv.tvPlusDeeplinker/</installedPath>
+<icon>/opt/share/webappservice/apps_icon/all/3202006020992/</icon>
+</widget>
+<widget id="3202007021320" name="BMPlayer" orderType="myapp" Index="102" version="2.0.12" lock="false" hidden="true" installedDate="2026-09-21 14:30:06" runTitle="" size="203981" network="false" usbApp="false">
+<featured system = "default"></featured>
+<installedPath>/opt/usr/home/owner/apps_rw/org.tizen.bmplayer/</installedPath>
+<icon>/opt/share/webappservice/apps_icon/all/3202007021320/</icon>
+</widget>
+<widget id="3202103023156" name="airplay-app-2" orderType="myapp" Index="103" version="5.37.656" lock="false" hidden="true" installedDate="2026-09-21 14:30:06" runTitle="" size="16753160" network="true" usbApp="false">
+<featured system = "default"></featured>
+<installedPath>/opt/usr/home/owner/apps_rw/com.samsung.tv.airplay-app-2/</installedPath>
+<icon>/opt/share/webappservice/apps_icon/all/3202103023156/</icon>
+</widget>
+<widget id="3202308031872" name="cmsWebApp" orderType="myapp" Index="104" version="122.26.04291" lock="false" hidden="true" installedDate="2026-09-21 14:30:06" runTitle="" size="1015808" network="true" usbApp="false">
+<featured system = "default"></featured>
+<installedPath>/opt/usr/home/owner/apps_rw/WykOS4t4F0/</installedPath>
+<icon>/opt/share/webappservice/apps_icon/all/3202308031872/</icon>
+</widget>
+<widget id="3202308031879" name="WebAccountExtension" orderType="myapp" Index="105" version="122.25.06131" lock="false" hidden="true" installedDate="2026-09-21 14:30:06" runTitle="" size="962560" network="true" usbApp="false">
+<featured system = "default"></featured>
+<installedPath>/opt/usr/home/owner/apps_rw/ZODRT12q2l/</installedPath>
+<icon>/opt/share/webappservice/apps_icon/all/3202308031879/</icon>
+</widget>
+<widget id="3202408036558" name="Google Cast" orderType="myapp" Index="106" version="1.1.65" lock="false" hidden="true" installedDate="2026-09-21 14:30:24" runTitle="" size="50792653" network="true" usbApp="false">
+<featured system = "default"></featured>
+<installedPath>/opt/usr/home/owner/apps_rw/com.samsung.tv.googlecast-app/</installedPath>
+<icon>/opt/share/webappservice/apps_icon/all/3202408036558/</icon>
+</widget>
+<widget id="3202101022708" name="Tizen Web Engine based on Chromium" orderType="myapp" Index="107" version="0.2.27108" lock="false" hidden="true" installedDate="2026-09-21 14:30:05" runTitle="UWE" size="51554529" network="true" usbApp="false">
+<featured system = "default"></featured>
+<installedPath>/opt/usr/home/owner/apps_rw/org.tizen.chromium-efl-upgrade/</installedPath>
+<icon>/opt/share/webappservice/apps_icon/all/3202101022708/</icon>
+</widget>
+<widget id="3202408036614" name="Google Cast Settings" orderType="myapp" Index="107" version="1.14.65" lock="false" hidden="true" installedDate="2026-09-21 14:30:06" runTitle="" size="798720" network="true" usbApp="false">
+<featured system = "default"></featured>
+<installedPath>/opt/usr/home/owner/apps_rw/ByJlgt0XeD/</installedPath>
+<icon>/opt/share/webappservice/apps_icon/all/3202408036614/</icon>
+</widget>
+<widget id="3201711015274" name="Board" orderType="defaultapp" Index="200" version="1.8.11" lock="false" hidden="true" installedDate="" runTitle="" size="12761233" network="false" usbApp="false">
+<featured system = "default"></featured>
+<installedPath>/opt/usr/home/owner/apps_rw/com.samsung.tv.photo-tpl/</installedPath>
+<icon>/opt/share/webappservice/apps_icon/all/3201711015274/</icon>
+</widget>
+<widget id="3201712015407" name="Mono" orderType="defaultapp" Index="201" version="2.4.11" lock="false" hidden="true" installedDate="" runTitle="" size="3826213" network="false" usbApp="false">
+<featured system = "default"></featured>
+<installedPath>/opt/usr/home/owner/apps_rw/com.samsung.tv.photoblueline1-tpl/</installedPath>
+<icon>/opt/share/webappservice/apps_icon/all/3201712015407/</icon>
+</widget>
+<widget id="3201808016724" name="Mono Mat" orderType="defaultapp" Index="202" version="1.31.65" lock="false" hidden="true" installedDate="" runTitle="" size="11832294" network="false" usbApp="false">
+<featured system = "default"></featured>
+<installedPath>/opt/usr/home/owner/apps_rw/com.samsung.tv.artpaint-tpl/</installedPath>
+<icon>/opt/share/webappservice/apps_icon/all/3201808016724/</icon>
+</widget>
+<widget id="3201904018261" name="My Gallery" orderType="defaultapp" Index="203" version="0.4.10" lock="false" hidden="true" installedDate="" runTitle="" size="21621389" network="false" usbApp="false">
+<featured system = "default"></featured>
+<installedPath>/opt/usr/home/owner/apps_rw/com.samsung.tv.photo8K-tpl/</installedPath>
+<icon>/opt/share/webappservice/apps_icon/all/3201904018261/</icon>
+</widget>
+<widget id="3201909019150" name="Auto Gallery" orderType="defaultapp" Index="204" version="0.3.10" lock="false" hidden="true" installedDate="" runTitle="" size="2370574" network="false" usbApp="false">
+<featured system = "default"></featured>
+<installedPath>/opt/usr/home/owner/apps_rw/com.samsung.tv.autolayout-tpl/</installedPath>
+<icon>/opt/share/webappservice/apps_icon/all/3201909019150/</icon>
+</widget>
+<widget id="3202006020962" name="Dynamic Filter" orderType="defaultapp" Index="205" version="1.0.80" lock="false" hidden="true" installedDate="" runTitle="" size="37980630" network="false" usbApp="false">
+<featured system = "default"></featured>
+<installedPath>/opt/usr/home/owner/apps_rw/com.samsung.tv.DynamicFilter/</installedPath>
+<icon>/opt/share/webappservice/apps_icon/all/3202006020962/</icon>
+</widget>
+<widget id="111299001912" name="YouTube" orderType="userapp" Index="300" version="2.1.513" lock="false" hidden="false" installedDate="2026-09-21 14:41:21" runTitle="YouTube" size="73728" network="true" usbApp="false">
+<featured system = "default"></featured>
+<installedPath>/opt/usr/home/owner/apps_rw/9Ur5IzDKqV/</installedPath>
+<icon>/opt/share/webappservice/apps_icon/all/111299001912/</icon>
+</widget>
+<widget id="11111300404" name="Viaplay" orderType="userapp" Index="301" version="3.2.11" lock="false" hidden="false" installedDate="2026-09-21 14:41:37" runTitle="Viaplay" size="40960" network="true" usbApp="false">
+<featured system = "default"></featured>
+<installedPath>/opt/usr/home/owner/apps_rw/niYSnzL6h1/</installedPath>
+<icon>/opt/share/webappservice/apps_icon/all/11111300404/</icon>
+</widget>
+<widget id="3201808016802" name="Pluto TV" orderType="userapp" Index="302" version="6.220.133" lock="false" hidden="false" installedDate="2026-09-21 14:41:57" runTitle="" size="24576" network="true" usbApp="false">
+<featured system = "default"></featured>
+<installedPath>/opt/usr/home/owner/apps_rw/X1pKpFCiUu/</installedPath>
+<icon>/opt/share/webappservice/apps_icon/all/3201808016802/</icon>
+</widget>
+<widget id="3202110025362" name="Nenda" orderType="userapp" Index="303" version="1.0.1" lock="false" hidden="false" installedDate="2026-09-21 14:43:37" runTitle="" size="36864" network="true" usbApp="false">
+<featured system = "default"></featured>
+<installedPath>/opt/usr/home/owner/apps_rw/N3nDa2WbOe/</installedPath>
+<icon>/opt/share/webappservice/apps_icon/all/3202110025362/</icon>
+</widget>
+<widget id="MirageTV6" name="MirageTV6" orderType="userapp" Index="304" version="1.0.0" lock="false" hidden="false" installedDate="2026-09-21 14:45:48" runTitle="" size="9468046" network="false" usbApp="false">
+<featured system = "default"></featured>
+<installedPath>/opt/usr/home/owner/apps_rw/a3R0raELLY/</installedPath>
+<icon>/opt/share/webappservice/apps_icon/all/MirageTV6/</icon>
+</widget>
+<widget id="3201911019599" name="PvodFW" orderType="userapp" Index="305" version="1.70.26022" lock="false" hidden="true" installedDate="2026-09-21 14:52:36" runTitle="" size="1002596" network="true" usbApp="false">
+<featured system = "default"></featured>
+<installedPath>/opt/usr/home/owner/apps_rw/org.tizen.pvod-appfw/</installedPath>
+<icon>/opt/share/webappservice/apps_icon/all/3201911019599/</icon>
+</widget>
+<widget id="3201907018807" name="Netflix" orderType="userapp" Index="306" version="70.23.15090" lock="false" hidden="false" installedDate="2026-09-21 14:52:51" runTitle="Netflix" size="38658376" network="true" usbApp="false">
+<featured system = "default"></featured>
+<installedPath>/opt/usr/home/owner/apps_rw/org.tizen.netflix-app/</installedPath>
+<icon>/opt/share/webappservice/apps_icon/all/3201907018807/</icon>
+</widget>
+</list>

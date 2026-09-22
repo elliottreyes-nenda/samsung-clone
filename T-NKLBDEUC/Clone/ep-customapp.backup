@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customapp>
+ <mode>1</mode>
+ <url>https://setupmy.tv/tep</url>
+ <timeout>30</timeout>
+ <useHomeKey>1</useHomeKey>
+</customapp>
